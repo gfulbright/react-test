@@ -1,7 +1,7 @@
 const MyGitHub = () => {
     return (
         <div>
-            <href a="https://www.google.com">https://www.google.com</href>
+            <p>Link to GitHub: <a href="https://github.com/gfulbright/react-test">gfulbright/react-test</a></p>
         </div>
     )
 }
